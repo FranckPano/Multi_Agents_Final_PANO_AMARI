@@ -1,0 +1,7 @@
+Cuisine,Mettre_la_table>Manger>1
+Cuisine,Travailler_Aliments,Utiliser_Ustencils>Cuisiner>1
+Salon,Allumer_la_TV,S_installer>Regarder_la_TV>2
+Salon,Allumer_la_TV,S_installer>S_endormir_devant_la_TV>10
+Chambre,Eteindre_Lumiere,Activer_Alarme>Dormir>10
+Salon,Eteindre_Lumiere,Out>Sortir>4
+Bains,Preparer>Se_Laver>1
